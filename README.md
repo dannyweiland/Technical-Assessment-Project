@@ -6,3 +6,5 @@ For part 1 of the technical assessment I cleaned the provided dataset using a co
 
 ## Part 2: SQL and Data Wrangling
 In this part of the technical assesment I was tasked with executing a few SQL queries that required the use of concepts like subqueries and joins.  I then leveraged Python to add an additional "Work-days" calculation that I was required to use later on in the analysis.  
+
+You can check out the SQL portion of the assessment and my data-processing techniques within part 2 of the [TechnicalAssessment](TechnicalAssessment.ipynb) file.
